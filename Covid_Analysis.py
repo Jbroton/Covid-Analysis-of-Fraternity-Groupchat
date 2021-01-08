@@ -19,7 +19,6 @@ df.columns = ['time']
 df['time'] = pd.to_datetime(df['time'], unit = 's')
 
 # convert year data to pandas df, clean_data
-
 def df_creator(df, year):
     df['time'] = pd.to_datetime(df['time'], unit = 's')
     df = df[(df['time'] >= '%s-01-01 00:00:00' % year)
