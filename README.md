@@ -7,4 +7,4 @@ After groupme is done extracting your data, they provide you with a .rar file. I
     
 ![](covid_plot.png)
     
-Looking at the graph, we see a drastic decrease in the amount of messages due to Covid-19. We also see that there are spikes in January 2019 as the fraternity is happy to be back on campus. Every month besides summer months of June and July have a significant decrease in the amount of messages. Covid-19 has impacted everyones' lives and it was interesting to see how it affected my fraternity at UIUC.
+Looking at the graph, we see a drastic decrease in the amount of messages due to Covid-19. We also see that there are spikes in January 2019 due to the fraternity most likely happy to be back on campus. Every month besides summer months of June and July have a significant decrease in the amount of messages. Covid-19 has impacted everyones' lives and it was interesting to see how it affected my fraternity at UIUC.
