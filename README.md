@@ -1,5 +1,5 @@
 # Covid-Analysis-of-Fraternity-Groupchat
-I noticed a decrease in messages in the fraternity's group chat and wanted to see if I was correct.
+I noticed a decrease in messages in the fraternity's group chat and wanted to confirm my suspicions were true.
 
 My fraternity at the University of Illinois at Urbana-Champaign primarily uses GroupMe to communicate. GroupMe allows you to be able to export your data from your various groupchats. Anyone can do this by going to their settings, clicking on 'Export My Data' and clicking which groupchat's data you would like to export.
     
